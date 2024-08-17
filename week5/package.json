@@ -1,0 +1,28 @@
+{
+  "name": "sit725_week4_mongo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slimpotatoboy/SIT725_workshop.git"
+  },
+  "keywords": [
+    "week4"
+  ],
+  "author": "Edwin Maharjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slimpotatoboy/SIT725_workshop/issues"
+  },
+  "homepage": "https://github.com/slimpotatoboy/SIT725_workshop#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "nodemon": "^3.1.4"
+  }
+}
